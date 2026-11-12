@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "justen.aternos.me",
-    "port": 64609,
-    "version": "1.20.1",
+    "ip": "funtime-jkov.aternos.me",
+    "port": 29322,
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
