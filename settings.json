@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "justen,aternos.me",
-    "port": 25565,
+    "ip": "justen.aternos.me",
+    "port": 64609,
     "version": "1.20.1",
     "try-creative": false
   },
